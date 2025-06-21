@@ -21,7 +21,7 @@ A real-time face mask detection system that uses deep learning and computer visi
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Joel-Shibu/Facemask_Detection
-   cd facemask-detection
+   cd facemask_detection
    ```
 
 2. **Install dependencies**
